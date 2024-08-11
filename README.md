@@ -7,4 +7,6 @@ My GitHub features a range of personal and academic programming projects, includ
 - Multilevel statistical analysis (R) [link](https://github.com/alasdair-breasley/mlm-assignment/blob/main/MLM_Assignment.Rmd)
 - Machine learning (R) [link](https://github.com/alasdair-breasley/ml-assignment/blob/main/ML_Assignment.Rmd) 
 
-Additionally, examples of my academic and published professional writing can be found here [link](https://github.com/alasdair-breasley/writing-examples). 
+Examples of my academic and published professional writing can be found here [link](https://github.com/alasdair-breasley/writing-examples). 
+
+Examples of maps and geospatial visualisations I have produced can be found here [link](https://github.com/alasdair-breasley/mapping-examples). 
