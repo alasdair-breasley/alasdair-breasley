@@ -10,3 +10,5 @@ My GitHub features a range of personal and academic programming projects, includ
 Examples of my academic and published professional writing can be found here [link](https://github.com/alasdair-breasley/writing-examples). 
 
 Examples of maps and geospatial visualisations I have produced can be found here [link](https://github.com/alasdair-breasley/mapping-examples). 
+
+I am currently in the process of making additional repos public and adding more writing and mapping examples, so stay tuned! 
